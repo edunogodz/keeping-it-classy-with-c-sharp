@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data;
 
 namespace keeping_it_classy_with_c_sharp
 {
@@ -10,6 +11,33 @@ namespace keeping_it_classy_with_c_sharp
             Band band = new Band();
             band.Name = Console.ReadLine();
             band.Announce();
+
+            var repeat = true; 
+            while(repeat)
+            {
+                Console.WriteLine("Add, Announce, Quit?");
+                var action = Console.ReadLine();
+                if(action =="Add")
+                {
+                    band.AddMusician();
+
+                }
+                else if(action == "Announce")
+                {
+                    band.Announce();
+
+                }
+                else if(action == "Quit")
+                {
+                    //break;
+                    repeat =  false;
+                }
+                else
+                {
+                    Console.WriteLine(action + " is not a valid command");
+                }
+
+            }
             
         }      
     }   
