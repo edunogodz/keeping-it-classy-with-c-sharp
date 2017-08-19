@@ -22,6 +22,19 @@ namespace keeping_it_classy_with_c_sharp
                     band.AddMusician();
 
                 }
+                else if (action.StartsWith("Add"))
+                {
+                    var arguments = action.Split(' ');
+                    if (arguments.Length == 3)
+                    {
+                        band.AddMusician(arguments[1],arguments[2]);
+                    }
+                    else{
+                        band.AddMusician();
+                    }
+                }
+
+
                 else if(action == "Announce")
                 {
                     band.Announce();
