@@ -1,0 +1,10 @@
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\bin\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.deps.json
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\bin\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.runtimeconfig.json
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\bin\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.runtimeconfig.dev.json
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\bin\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.dll
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\bin\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.pdb
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\obj\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.csproj.CoreCompileInputs.cache
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\obj\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.AssemblyInfoInputs.cache
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\obj\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.AssemblyInfo.cs
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\obj\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.dll
+D:\Learn\Codeschool\keeping-it-classy-with-c-sharp\obj\Debug\netcoreapp2.0\keeping-it-classy-with-c-sharp.pdb
